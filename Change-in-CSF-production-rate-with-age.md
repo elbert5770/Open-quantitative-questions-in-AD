@@ -1,0 +1,8 @@
+---
+name: Changes in CSF production rates with age
+description: CSF production rates are difficult to measure accurately but are necessary to remove amyloid beta from the brain and may contribute to age-related clearance
+---
+
+# Changes in CSF production rates with age
+
+[doi: 10.1212/wnl.40.3_part_1.500] CSF production rate was significantly less (p < 0.02) in the elderly (0.19 k 0.07 ml/min) than in the young subjects (0.41 k 0.24 ml/min).
