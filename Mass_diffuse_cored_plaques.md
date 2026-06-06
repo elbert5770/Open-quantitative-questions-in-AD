@@ -1,5 +1,5 @@
 ---
-name: Relative mass of diffuse and cored plaques in AD
+name: Mass of diffuse and cored plaques in AD
 description: Relative areas of diffuse and dense cored plaques have been measured but relative mass is a more relevant measure 
 ---
 
