@@ -1,5 +1,5 @@
 ---
-name: Relative flux of Abeta transport/clearance from brain by different processes
+name: Flux of Abeta transport/clearance from brain by different processes
 description: Blood brain barrier transport rates versus glymphatic and proteolytic clearance from the brain
 ---
 
